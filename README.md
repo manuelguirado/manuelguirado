@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manuel Guirado</h1>
-<h3 align="center">A junior backend developer</h3>
+<h3 align="center">A junior Full Stack  developer</h3>
 
 - 🔭 I’m currently working on [chatinrealtime](https://github.com/manuelguirado/simpleChat)
 
